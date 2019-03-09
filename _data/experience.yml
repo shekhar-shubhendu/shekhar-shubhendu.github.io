@@ -3,18 +3,18 @@
   job_title: Full-Stack Developer
   dates: January 2019 - Present
   description: |
-   - Developing the blockchain explorer for Aeternity Blockchain. You can find it [here](https://explorer.aepps.com).
-   - Developing the aepp-middleware, a simple middleware for aeternity node, written in Rust.
-   - Set up CD pipelines for Aeternity Blockchain projects using Concourse-CI, Docker, AWS and K8s(Kubernetes).
+   - Developing the [blockchain explorer](https://explorer.aepps.com) for Aeternity Blockchain.
+   - Developing the aepp-middleware, a simple middleware for aeternity node, written in <mark>Rust</mark>.
+   - Set up CD pipelines for Aeternity Blockchain projects using <mark>Concourse-CI</mark>, <mark>Docker</mark>, <mark>AWS</mark> and <mark>Kubernetes</mark>.
 
 - company: BigchainDB GmbH
   link: bigchaindb.com
   job_title: Full-Stack Developer & Consultant
   dates: July 2018 - December 2018
   description: |
-    - Developed a pilot for a global CPG major for their provenance supply chain. Used Python, Django framework, Vue.js, Auth0, BigchainDB, Docker and Docker compose.
-    - Developed Node.js Express boilerplate for BigchainDB.
-    - Developed BigchainDB Explorer/Dashboard, a react/redux single page application showing BigchainDB transactions as a dynamic timeline view using the valid transaction broadcast from the BigchainDB WebSocket.
+    - Developed a pilot for a global CPG major for their provenance supply chain. Used <mark>Python</mark>, <mark>Django framework</mark>, <mark>Vue.js</mark>, <mark>Auth0</mark>, <mark>BigchainDB</mark>, <mark>Docker & Docker compose</mark>.
+    - Developed <mark>Node.js Express boilerplate</mark> for BigchainDB.
+    - Developed BigchainDB Explorer/Dashboard, a <mark>react/redux</mark> single page application showing BigchainDB transactions as a dynamic timeline view using the valid transaction broadcast from the BigchainDB WebSocket.
     - Worked with the team to implement and showcase Ethereum-BigchainDB and Hyperledger Fabric-BigchainDB Integration.
     - Developed an open-source library to implement Encrypted Peed-to-Peer asset transfer on BigchainDB.
 
@@ -23,24 +23,24 @@
   job_title: Full-Stack Developer
   dates: April 2017 - June 2018
   description: |
-    - Worked on Microsoft Blockchain Workbench(aka App Builder) to develop and build a MVP for the inventory financing use case for a US-based technological manufacturer.
-    - Developed a pilot for Procter & Gamble, for their India based procurement supply chain. Project was based and deployed on private ethereum network. Used Java 8, Spring Boot, Angular, Node.js, Express.js, Solidity and Truffle framework.
-    - Developed and published a Letter of Credit solution(PoC) on Microsoft Azure Marketplace.
-    - Developed a Trade Finance PoC for a major Nordics based client using Ethereum, solidity, meteor, Node.js, HTML5, CSS3 and JavaScript.
-    - Developed a prototype of a royalty distribution system using Ethereum for a major US-based film studio and content distributor. Used Microsoft Azure, Ethereum, solidity, meteor, Node.js, HTML5, CSS3 and JavaScript.
-    - Designed and Developed a prototype of a supply chain track & trace system merging IoT and blockchain technologies for a European client. Used raspberry pi, temperature sensors, RFID tags and readers, ethereum, solidity, meteor, Node.js, HTML5, CSS3 and JavaScript.
-    - Developed a PoC demonstrating KYC process using Hyperledger Fabric and Composer, Node.js, Express.js, Angular 4, HTML5, CSS3, and JavaScript.
+    - Worked on <mark>Microsoft Blockchain Workbench</mark> to develop and build a MVP for the inventory financing use case for a US-based technological manufacturer.
+    - Developed a pilot for Procter & Gamble, for their India based procurement supply chain. Project was based and deployed on private <mark>ethereum</mark> network. Used <mark>Java 8</mark>, <mark>Spring Boot</mark>, <mark>Angular</mark>, <mark>Node.js</mark>, <mark>Express.js</mark>, <mark>Solidity</mark> and <mark>Truffle framework</mark>.
+    - Developed and published a [Letter of Credit solution(PoC)](https://azuremarketplace.microsoft.com/en/marketplace/apps/lti-lt-infotech.trade-finance-blockchain?tab=Overview) on <mark>Microsoft Azure Marketplace</mark>.
+    - Developed a Trade Finance PoC for a major Nordics based client using Ethereum, Solidity, Meteor, Node.js, HTML5, CSS3 and JavaScript.
+    - Developed a prototype of a royalty distribution system using <mark>Ethereum</mark> for a major US-based film studio and content distributor. Used <mark>Microsoft Azure</mark>, <mark>Ethereum</mark>, <mark>Solidity</mark>, <mark>Meteor</mark>, <mark>Node.js</mark>, <mark>HTML5</mark>, <mark>CSS3</mark> and <mark>JavaScript</mark>.
+    - Designed and Developed a prototype of a supply chain track & trace system merging IoT and blockchain technologies for a European client. Used <mark>Raspberry Pi</mark>, <mark>Ethereum</mark>, <mark>Solidity</mark>, <mark>Meteor</mark>, <mark>Node.js</mark>, <mark>HTML5</mark>, <mark>CSS3</mark> and <mark>JavaScript</mark>.
+    - Developed a PoC demonstrating KYC process using <mark>Hyperledger Fabric & Composer</mark>, <mark>Node.js</mark>, <mark>Express.js</mark>, <mark>Angular</mark>, <mark>HTML5</mark>, <mark>CSS3</mark>, and <mark>JavaScript</mark>.
 
 - company: Tata Consultancy Services
   link: tcs.com
   job_title: Full-Stack Developer
   dates: July 2014 - April 2017
   description: |
-    - Developed an intelligent solution that enables the system to automatically detect the number of tables present in an image document and also provides methods to selectively extract them. Used OpenCV for image processing & content detection and TesseractOCR for optical character recognition.
-    - Developed a system for discovering user intent using different NLP techniques and Machine Learning algorithms.
+    - Developed an intelligent solution that enables the system to automatically detect the number of tables present in an image and also provides methods to selectively extract them. Used <mark>OpenCV</mark> for image processing & content detection and <mark>TesseractOCR</mark> for optical character recognition.
+    - Developed a system for discovering user intent using different <mark>NLP</mark> techniques and <mark>Machine Learning algorithms</mark>.
     - Conceptualized and designed the architecture of a system that leverages NLP, data mining and machine learning to predict and extract the questions that can be formed using a given data set. 
     - Redesigned previously developed projects by the team, using spring boot, to follow micro-services architecture.
-    - Developed a Bitcoin-based altcoin with complete RPC and Java wrappers to control it.
-    - Lead a team of 2 while developing a web application, named Tresor, which uses Bitcoin blockchain to implement the Proof-of-Existence concept. It helps the user to online notarize files and ideas using bitcoin blockchain.
-    - Developed a desktop application, using JavaFX 2.0, with a team of 2 that successfully followed and demonstrated Symmetric Searchable Encryption.
-    - Developed and designed a crowd-sourcing application(web and android), called Heritage Portal, purposed to collect data on various heritage sites in India. 
+    - Developed a <mark>Bitcoin-based altcoin</mark> with complete RPC and Java wrappers to control it.
+    - Lead a team of 2 while developing a web application, which uses <mark>Bitcoin</mark> blockchain to implement the <mark>Proof-of-Existence</mark> concept. It helps the user to online notarize files and ideas using bitcoin blockchain.
+    - Developed a desktop application, using <mark>JavaFX 2.0</mark>, with a team of 2 that successfully followed and demonstrated <mark>Symmetric Searchable Encryption</mark>.
+    - Developed and designed a crowd-sourcing application(<mark>Web & Android</mark>), called Heritage Portal, purposed to collect data on various heritage sites in India. 
