@@ -1,7 +1,23 @@
-- name: Super awesome project
-  #link: github.com/sproogen
-  #github: sproogen/resume-theme
-  #quote: >
-   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #description: | # this will include new lines to allow paragraphs
-   # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+- name: Aeternity Explorer
+  link: https://explorer.aepps.com
+  github: aeternity/aepp-blockchain-explorer
+  description: |
+   The official explorer for aeternity blockchain. Developed in <mark>Nuxtjs</mark> and <mark>Vuejs</mark>.
+
+- name: BigchainDB Dashboard/Explorer
+  link: https://github.com/bigchaindb/dashboard
+  github: bigchaindb/dashboard
+  description: |
+   The official explorer for BigchainDB blockchain. Developed using <mark>React & Redux</mark>.
+
+- name: BigchainDB Express.js Boilerplate
+  link: https://github.com/shekhar-shubhendu/bigchaindb-express-boilerplate
+  github: shekhar-shubhendu/bigchaindb-express-boilerplate
+  description: |
+   A boilerplate for creating <mark>BigchainDB</mark> REST API server using <mark>Express.js</mark>.
+
+- name: Supply Chain
+  link: https://github.com/shekhar-shubhendu/supply-chain
+  github: shekhar-shubhendu/supply-chain
+  description: |
+   A simple POC demonstrating supply chain management on blockchain using <mark>Angular</mark> + <mark>Truffle</mark> + <mark>IPFS</mark> + <mark>Ethereum</mark>.

@@ -16,15 +16,19 @@ about_content: |
   I am most skilled in: <mark>Blockchain Applications</mark> and <mark>Web Development</mark>
 
 more_content: |
-  Alongside my interests in blockchain, web development and software engineering some of my other interests and hobbies are:
+  Alongside my interests in blockchain & web development, some of my other interests and hobbies are:
    - Gaming (PS4)
-   - Reading - I'm a Bookworm
+   - Reading Books
    - Sleeping
 
   I can only speak 2 human laguages at the moment:
    - Hindi (Native)
    - English
    - Trying to learn a third (German)
+
+  And at last few things that can be considered achievements:
+  - Won first IPDB Hackathon held in Berlin @ Revision Summit 2018.
+  - Runner-up of Blockchain India Week Hackathon held at IIT-Bombay.
 
 footer_show_references: true
 
@@ -36,3 +40,12 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+social:
+  name: Shubhendu Shekhar
+  links:
+    - https://www.linkedin.com/in/shubhendu-shekhar
+    - https://github.com/shekhar-shubhendu
+author: shubhendu shekhar
+seo:
+  type: Person
