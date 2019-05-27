@@ -1,8 +1,14 @@
-- name: Aeternity Explorer
-  link: https://explorer.aepps.com
-  github: aeternity/aepp-blockchain-explorer
+- name: æternity middleware
+  link: https://mdw.aepps.com/
+  github: aeternity/aepp-middleware
   description: |
-   The official explorer for aeternity blockchain. Developed in <mark>Nuxtjs</mark> and <mark>Vuejs</mark>.
+   Æternity Node Middleware
+
+- name: AEX(aka aeternity improvement proposals)
+  link: https://github.com/aeternity/AEXs
+  github: aeternity/AEXs
+  description: |
+   Aeternity expansions repository — application layer standards
 
 - name: BigchainDB Dashboard/Explorer
   link: https://github.com/bigchaindb/dashboard
