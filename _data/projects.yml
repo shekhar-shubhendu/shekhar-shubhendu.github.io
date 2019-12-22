@@ -5,7 +5,7 @@
     Software Development Kit (SDK) for python developers who want to build dapps on aeternity blockchain.
 
 - name: Aeternal
-  link: https://mainnet.aeternal.com
+  link: https://mainnet.aeternal.io
   github: aeternity/aeternal
   description: |
    Aeternal, is an aeternity node middleware, is a caching and reporting layer which sits
