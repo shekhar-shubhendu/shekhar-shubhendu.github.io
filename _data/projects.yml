@@ -1,29 +1,29 @@
-- name: æternity middleware
-  link: https://mdw.aepps.com/
-  github: aeternity/aepp-middleware
+- name: Aeternity Python SDK
+  link: https://pypi.org/project/aepp-sdk/
+  github: aeternity/aepp-sdk-python
   description: |
-   Æternity Node Middleware
+    Software Development Kit (SDK) for python developers who want to build dapps on aeternity blockchain.
 
-- name: AEX(aka aeternity improvement proposals)
-  link: https://github.com/aeternity/AEXs
-  github: aeternity/AEXs
+- name: Aeternal
+  link: https://mainnet.aeternal.com
+  github: aeternity/aeternal
   description: |
-   Aeternity expansions repository — application layer standards
+   Aeternal, is an aeternity node middleware, is a caching and reporting layer which sits
+   in front of the nodes of the aeternity blockchain.
+   Its purpose is to respond to queries faster than the node can do,
+   and to support queries that for reasons of efficiency the node cannot or will not support itself. 
 
-- name: BigchainDB Dashboard/Explorer
-  link: https://github.com/bigchaindb/dashboard
+- name: BigchainDB Dashboard
   github: bigchaindb/dashboard
   description: |
    The official explorer for BigchainDB blockchain. Developed using <mark>React & Redux</mark>.
 
 - name: BigchainDB Express.js Boilerplate
-  link: https://github.com/shekhar-shubhendu/bigchaindb-express-boilerplate
   github: shekhar-shubhendu/bigchaindb-express-boilerplate
   description: |
    A boilerplate for creating <mark>BigchainDB</mark> REST API server using <mark>Express.js</mark>.
 
 - name: Supply Chain
-  link: https://github.com/shekhar-shubhendu/supply-chain
   github: shekhar-shubhendu/supply-chain
   description: |
    A simple POC demonstrating supply chain management on blockchain using <mark>Angular</mark> + <mark>Truffle</mark> + <mark>IPFS</mark> + <mark>Ethereum</mark>.
