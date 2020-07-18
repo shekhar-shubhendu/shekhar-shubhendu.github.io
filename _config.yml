@@ -1,12 +1,13 @@
 repository: shekhar-shubhendu/shekhar-shubhendu.github.io
-# favicon: images/favicon.ico
+
+darkmode: true
 
 name: Shubhendu Shekhar
 title: Full Stack Developer
 email: connect@shubhendu.de
 website: shubhendu.de
 
-github_username:  shekhar-shubhendu
+github_username: shekhar-shubhendu
 linkedin_username: shubhendu-shekhar
 
 about_profile_image: images/photo.jpg
@@ -34,20 +35,15 @@ more_content: |
 
 footer_show_references: true
 
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-social:
-  name: Shubhendu Shekhar
-  links:
-    - https://www.linkedin.com/in/shubhendu-shekhar
-    - https://github.com/shekhar-shubhendu
 author: shubhendu shekhar
 seo:
   type: Person
