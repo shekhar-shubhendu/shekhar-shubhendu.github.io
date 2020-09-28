@@ -1,7 +1,7 @@
 - company: Adecco Group Technology Center GmbH
   link: https://www.adeccogroup.com/
   job_title: Full-Stack Developer
-  dates: March 2020 - Present
+  dates: March 2020 - September 2020
   description: |
   - Helped build the first version of the multi-tenant mobile/web app that (aims to) unify all the Adecco apps (across all Adecco brands).
     It is a React-Redux app with Cordova setup for Android and iOS experience.
