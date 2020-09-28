@@ -7,7 +7,7 @@
       It is a React-Redux app with Cordova setup for Android and iOS experience.
     - Developed and maintained Typescript + Postgres backend(REST) for the above app.
       I was responsible for following too,
-      Push Notifications Setup (Firebase + APNS)
+      - Push Notifications Setup (Firebase + APNS)
       - Mobile pipeline build and release to Microsoft App centre
       - Set up code-push and code-push pipeline for the android and iOS apps.
 
