@@ -11,7 +11,13 @@
    Aeternal, is an aeternity node middleware, is a caching and reporting layer which sits
    in front of the nodes of the aeternity blockchain.
    Its purpose is to respond to queries faster than the node can do,
-   and to support queries that for reasons of efficiency the node cannot or will not support itself. 
+   and to support queries that for reasons of efficiency the node cannot or will not support itself.
+   
+- name: React Cropper
+  github: react-cropper/react-cropper
+  description: |
+   <mark>Cropperjs</mark> as react component.
+   Rewrote the entire library/component in Typescript with proper unit tests and CI/CD setup.
 
 - name: BigchainDB Dashboard
   github: bigchaindb/dashboard
