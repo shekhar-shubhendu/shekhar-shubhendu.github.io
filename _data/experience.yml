@@ -2,6 +2,15 @@
   link: https://www.adeccogroup.com/
   job_title: Full-Stack Developer
   dates: March 2020 - Present
+  description: |
+  - Helped build the first version of the multi-tenant mobile/web app that (aims to) unify all the Adecco apps (across all Adecco brands).
+    It is a React-Redux app with Cordova setup for Android and iOS experience.
+
+  - Developed and maintained Typescript + Postgres backend(REST) for the above app. 
+    I was responsible for following too:
+     - Push Notifications Setup (Firebase + APNS)
+     - Mobile pipeline build and release to Microsoft App centre
+     - Set up code-push and code-push pipeline for the android and iOS apps.
 
 - company: Ape Unit GmbH
   link: apeunit.com
